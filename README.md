@@ -1,6 +1,7 @@
 # Network-Design
 Network Design
-###Requirements
+
+##Requirements
  Organization Requirement & Solution:
   - Physical & Logical Network Topologies .
   - Floor Diagrams.
@@ -25,11 +26,11 @@ Implementation of :
   - Implementing Firewall (Sophos XG 550 Rev.2).
   - Implementing AAA Server (Cisco ACS).
 
-### Design
+## Design
  - 1.pdf = Table Of Content
  - 2.pdf = Physical Diagram
  - 3.pdf = Logical Diagram
 
-### Virtually
+## Virtually
 #### GNS 3
 ![](/gns3.gif)
