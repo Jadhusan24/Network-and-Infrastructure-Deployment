@@ -40,7 +40,10 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
  - Organizational Layout
  
  ![Screenshot](./images/1.jpg)
+ - Server Rack Diagram (36U)
  
+ ![Screenshot](./images/2.jpg)
+
 ## Virtually
 #### GNS 3
 ![](/gns3.gif)
