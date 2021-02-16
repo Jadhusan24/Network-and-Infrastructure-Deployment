@@ -34,8 +34,8 @@ Network Design
 
 ## Design
  - 1.pdf = Table Of Content
- - 2.pdf = Physical Diagram
- - 3.pdf = Logical Diagram
+ - 2.pdf = Physical Topology
+ - 3.pdf = Logical Topology
  
  - Organizational Layout
  
