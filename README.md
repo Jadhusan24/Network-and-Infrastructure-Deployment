@@ -27,17 +27,6 @@ Implementation of :
 
 ### Design
 
- - ICMP
- 
-![Screenshot](./1.JPG)
-
- - UDP
- 
-![Screenshot](./2.jpg)
-
- - ARP
- 
-![Screenshot](./3.jpg)
 
 ### Virtually
 #### GNS 3
