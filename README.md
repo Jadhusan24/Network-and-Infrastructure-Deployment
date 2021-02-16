@@ -26,7 +26,9 @@ Implementation of :
   - Implementing AAA Server (Cisco ACS).
 
 ### Design
-
+ - 1.pdf = Table Of Content
+ - 2.pdf = Physical Diagram
+ - 3.pdf = Logical Diagram
 
 ### Virtually
 #### GNS 3
