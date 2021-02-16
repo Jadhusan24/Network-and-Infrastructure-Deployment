@@ -30,7 +30,10 @@ Implementation of :
  - 1.pdf = Table Of Content
  - 2.pdf = Physical Diagram
  - 3.pdf = Logical Diagram
-
+ 
+ - Organizational Layout
+ ![Screenshot](./images/1.JPG)
+ 
 ## Virtually
 #### GNS 3
 ![](/gns3.gif)
