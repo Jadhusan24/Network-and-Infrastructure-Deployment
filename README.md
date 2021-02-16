@@ -32,7 +32,7 @@ Implementation of :
  - 3.pdf = Logical Diagram
  
  - Organizational Layout
- ![Screenshot](./images/1.JPG)
+ ![Screenshot](./images/1.jpg)
  
 ## Virtually
 #### GNS 3
