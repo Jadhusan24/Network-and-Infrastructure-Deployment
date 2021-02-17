@@ -34,9 +34,7 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
 7. References
 
 ## Design
- - 1.pdf = Table Of Content
- - 2.pdf = Physical Topology
- - 3.pdf = Logical Topology
+ - Topology = Physical Topology | Logical Topology
  
  - Organizational Layout
  
