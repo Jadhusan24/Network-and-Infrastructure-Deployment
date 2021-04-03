@@ -2,6 +2,8 @@
 
 Myself and my colleagues I involved in the 1st year Final Project of our Degree Program, have designed and Implemented a Network Solution for a Virtual Company named Laugf. Which was well-documented and had the above table of contents.
 
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
+
 ## Requirements
 2. Design of Solution
  - 2.1 Network Analysis
