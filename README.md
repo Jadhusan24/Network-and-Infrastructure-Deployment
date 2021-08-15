@@ -35,6 +35,26 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
 6. Appendices
 7. References
 
+## More infor
+
+Worked with below tools
+
+- To start up from the scratch, I used Microsoft Visio for the Interior plans and floor, cabling, cctv,diagram
+- Used GNS3 to represent a virtual scenario 
+- Implemented Using Real Devices, which was produced by my College
+- Tools I took for virtually n real devices
+*for the lan*
+-   Layer 2 Switch
+-   Layer 3 Switch
+-   Access Point
+-   Desktop Computers
+*for the Security*
+-   Sophos XG
+*for the servers*
+-   Windows Server 2016
+*for the simple virtualization*
+-   VMware ESXI
+
 
 ## Design
  - Topology = Physical Topology | Logical Topology
