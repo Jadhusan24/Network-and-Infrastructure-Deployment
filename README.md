@@ -4,7 +4,7 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
-## [ContentTopology](./Contents/Contents.pdf)
+## [Contents](./Contents/Contents.pdf)
 2. Design of Solution
  - 2.1 Network Analysis
  - 2.2 Physical & Logical Network Topologies
