@@ -37,12 +37,12 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
 
 ## More infor
 
-Worked with below tools
+Summary
 
-- To start up from the scratch, I used Microsoft Visio for the Interior plans and floor, cabling, cctv,diagram
-- Used GNS3 to represent a virtual scenario 
-- Implemented Using Real Devices, which was produced by my College
-- Tools I took for virtually n real devices
+- To start up from the scratch, I used Microsoft Visio for the Interior plans and floor, cabling, cctv diagrams.
+- Used GNS3 to represent a virtual scenario.
+- Implemented Using Real Devices, which was produced by my College.
+- Tools I took for virtually n real devices.
 
 *for the lan* <br />
 -   Layer 2 Switch
