@@ -60,8 +60,9 @@ Summary
 -   VMware ESXI
 
 
-## Design
+## Diagrams
  - Topology :-
+ 
  - [Physical Topology](./Contents/PhysicalTopology.pdf)
  - [Logical Topology](./Contents/LogicalTopology.pdf)
  
@@ -74,5 +75,5 @@ Summary
  ![Screenshot](./images/2.jpg)
  
  - Virtually Using GNS3
- - 
-![](/gns3.gif)
+
+ ![](/gns3.gif)
