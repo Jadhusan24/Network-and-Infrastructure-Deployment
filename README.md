@@ -4,7 +4,7 @@ Myself and my colleagues I involved in the 1st year Final Project of our Degree 
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
-## Requirements
+## [ContentTopology](./Contents/Contents.pdf)
 2. Design of Solution
  - 2.1 Network Analysis
  - 2.2 Physical & Logical Network Topologies
@@ -62,8 +62,8 @@ Summary
 
 ## Design
  - Topology :-
- - [Physical Topology](./Topology/PhysicalTopology.pdf)
- - [Logical Topology](./Topology/LogicalTopology.pdf)
+ - [Physical Topology](./Contents/PhysicalTopology.pdf)
+ - [Logical Topology](./Contents/LogicalTopology.pdf)
  
  
  - Organizational Layout
@@ -72,7 +72,7 @@ Summary
  - Server Rack Diagram (36U)
  
  ![Screenshot](./images/2.jpg)
-
-## Virtually
-#### GNS 3
+ 
+ - Virtually Using GNS3
+ - 
 ![](/gns3.gif)
