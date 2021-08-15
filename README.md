@@ -1,6 +1,6 @@
 # Designed and Implemented Network
 
-Myself and my colleagues I involved in the 1st year Final Project of our Degree Program, have designed and Implemented a Network Solution for a Virtual Company named Laugf. Which was well-documented and had the above table of contents.
+I involved in the 1st year Final Project of our Degree Program, have designed and Implemented a Network Solution for a Virtual Company named Laugf. Which was well-documented and had the above table of contents. Which was rewarded with A making 4.0 GPA
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
