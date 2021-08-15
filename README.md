@@ -61,7 +61,7 @@ Summary
 
 
 ## Design
- - Topology = Physical Topology | Logical Topology
+ - Topology = [Physical Topology](./Topology/Physical Topology.pdf) | [Logical Topology](./Topology/Logical Topology.pdf)
  
  - Organizational Layout
  
