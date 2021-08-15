@@ -43,16 +43,20 @@ Worked with below tools
 - Used GNS3 to represent a virtual scenario 
 - Implemented Using Real Devices, which was produced by my College
 - Tools I took for virtually n real devices
-*for the lan*
+
+*for the lan* <br />
 -   Layer 2 Switch
 -   Layer 3 Switch
 -   Access Point
 -   Desktop Computers
-*for the Security*
+
+*for the Security* <br />
 -   Sophos XG
-*for the servers*
+
+*for the servers* <br />
 -   Windows Server 2016
-*for the simple virtualization*
+
+*for the simple virtualization* <br />
 -   VMware ESXI
 
 
