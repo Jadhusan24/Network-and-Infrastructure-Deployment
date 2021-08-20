@@ -74,7 +74,7 @@ Summary
 
  - Ip Address
 
-  ![Screenshot](./images/Ipaddress.jpg.jpg)
+  ![Screenshot](./images/Ipaddress.jpg)
 
 - Server Rack Diagram (36U)
  
