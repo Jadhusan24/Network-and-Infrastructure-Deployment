@@ -69,9 +69,14 @@ Summary
  
  
  - Organizational Layout
- 
- ![Screenshot](./images/1.jpg)
- - Server Rack Diagram (36U)
+
+![Screenshot](./images/1.jpg)
+
+ - Ip Address
+
+  ![Screenshot](./images/Ipaddress.jpg.jpg)
+
+- Server Rack Diagram (36U)
  
  ![Screenshot](./images/2.jpg)
  
