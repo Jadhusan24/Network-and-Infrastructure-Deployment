@@ -39,7 +39,6 @@ I involved in the 1st year Final Project of our Degree Program, have designed an
 
 Summary
 
-
 - To start up from the scratch, I used Microsoft Visio for the Interior plans and floor, cabling, cctv diagrams.
 - Used GNS3 to represent a virtual scenario.
 - Implemented Using Real Devices, which was produced by my College.
