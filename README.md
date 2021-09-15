@@ -42,7 +42,7 @@ since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, In
 6. Appendices
 7. References
 
-## More infor
+## More information
 
 Summary
 
