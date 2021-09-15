@@ -4,6 +4,13 @@ I involved in the 1st year Final Project of our Degree Program, have designed an
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
+
+## Organizational Layout
+LAUFGFS Holding is medium-sized company located in Sri Lanka, with approximately 550 staff members. LAUGFS Holdings Limited is a diversified conglomerate from Sri Lanka and has
+since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, Industrial and manufacturing, Hospitality, Real estate, logistics, pharmaceuticals and several other sectors.
+
+
+
 ## [Contents](./Contents/Contents.pdf)
 2. Design of Solution
  - 2.1 Network Analysis
