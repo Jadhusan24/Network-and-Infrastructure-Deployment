@@ -10,7 +10,6 @@ LAUFGFS Holding is medium-sized company located in Sri Lanka, with approximately
 since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, Industrial and manufacturing, Hospitality, Real estate, logistics, pharmaceuticals and several other sectors.
 
 
-
 ## [Contents](./Contents/Contents.pdf)
 2. Design of Solution
  - 2.1 Network Analysis
