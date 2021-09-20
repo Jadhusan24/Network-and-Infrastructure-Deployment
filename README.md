@@ -19,10 +19,10 @@ since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, In
  - 2.5 [Access Point Diagram](Diagrams)
  - 2.6 Server Rack Diagram (36U)
  - 2.7 Server Room Specifications
- - 2.8 [VLAN Table](Networking
+ - 2.8 [VLAN Table](Networking)
  - 2.9 [IP Address Table](Networking)
  - 2.10 [Switch Port Calculation Table](Networking)
- - 2.11 [Port Assignment Table](Networking
+ - 2.11 [Port Assignment Table](Networking)
  - 2.12 [Protocols Used in the Network](Networking)
  - 2.13 ISP Connections
  - 2.14 Bandwidth Calculation
@@ -38,7 +38,7 @@ since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, In
  - 3.7 Implementing AAA Server (Cisco ACS)
 4. Evaluation
 5. Conclusion
-6. Appendices
+6. [Appendices](Devices)
 7. References
 
 ## More information
