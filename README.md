@@ -13,17 +13,17 @@ since expanded overseas. LAUGFS Holdings is mainly engaged in Energy, retail, In
 ## [Contents](./Contents/Contents.pdf)
 2. Design of Solution
  - 2.1 Network Analysis
- - 2.2 Physical & Logical Network Topologies
- - 2.3 Floor Diagram
- - 2.4 Cabling Diagram
- - 2.5 Access Point Diagram
+ - 2.2 [Physical & Logical Network Topologies](Contents)
+ - 2.3 [Floor Diagram](Diagrams)
+ - 2.4 [Cabling Diagram](Diagrams)
+ - 2.5 [Access Point Diagram](Diagrams)
  - 2.6 Server Rack Diagram (36U)
  - 2.7 Server Room Specifications
- - 2.8 VLAN Table
- - 2.9 IP Address Table
- - 2.10 Switch Port Calculation Table 
- - 2.11 Port Assignment Table
- - 2.12 Protocols Used in the Network 
+ - 2.8 [VLAN Table](Networking
+ - 2.9 [IP Address Table](Networking)
+ - 2.10 [Switch Port Calculation Table](Networking)
+ - 2.11 [Port Assignment Table](Networking
+ - 2.12 [Protocols Used in the Network](Networking)
  - 2.13 ISP Connections
  - 2.14 Bandwidth Calculation
  - 2.15 Limit Bandwidth in Switch Ports
